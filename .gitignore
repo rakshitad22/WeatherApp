@@ -1,0 +1,12 @@
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
